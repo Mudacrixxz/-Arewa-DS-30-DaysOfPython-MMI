@@ -1,2 +1,2 @@
 # 30DaysOfPython/MMI
-My 30DaysOfPython Exercise Solutions
+Arewa Data Science 30DaysOfPython. All Solution to daily Exercises are posted here. 
