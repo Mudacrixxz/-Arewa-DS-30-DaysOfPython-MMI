@@ -2,6 +2,10 @@
 
 ![alt text](https://raw.githubusercontent.com/arewadataScience/30-Days-of-Python/main/images/arewadsimage.png)
 
+
+<p align="center">
+<img src="/images/arewadsimage.png">
+
 This is the repository for the exercises of the Arewa Data Science 30 Days of Python, part of stage one of the Arewa Data Science fellowship programme.
 The pattern is 5 days a week (weekdays only).
 The breakdown for the topics that will covered by day are as follows:
