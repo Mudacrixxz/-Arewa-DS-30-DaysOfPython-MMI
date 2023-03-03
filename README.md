@@ -1,4 +1,5 @@
-<h1 align ="center" style = "color: gold"> ADSA-30-Days-Of-Python-MMI </h1>
+<h1 align ="center" style = "color: gold"> __30-Days-Of-Python__ </h1>
+
 
 ![alt text](https://raw.githubusercontent.com/arewadataScience/30-Days-of-Python/main/images/arewadsimage.png)
 
